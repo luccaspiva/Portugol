@@ -1,0 +1,1 @@
+Exercícios de lógica de programação, realizados no Portugol Studio
